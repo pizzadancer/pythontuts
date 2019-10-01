@@ -1,0 +1,1 @@
+print("just a simple test because it didnt track day2")
